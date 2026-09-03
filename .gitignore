@@ -1,0 +1,21 @@
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# MiMoCode internals
+.mimocode/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Backups (generated)
+backups/
+
